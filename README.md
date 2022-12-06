@@ -22,6 +22,7 @@
     border-color: #7ea0ae !important;
 }
 </style>
-<a href="http://daruse.ru/generator-knopok-online" class="button_1670306201441" target="_blank">
+<a href="https://github.com/taya02/taya02.github.io" class="button_1670306201441" target="_blank">
   Нажми
 </a>
+
