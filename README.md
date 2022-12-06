@@ -25,10 +25,11 @@
 <a href="https://github.com/taya02/taya02.github.io" class="button_1670306201441" target="_blank">
   Нажми
 </a>
-'''mermaid
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
+```
