@@ -29,8 +29,8 @@
 ```mermaid
 flowchart LR
 
-A[ЕГЭ] -->|сдал?| B(Round)
-B -->|да| C[Result 1]
+A[ЕГЭ] -->|сдал ли?| B[да]
+B -->|хорошо| C[Result 1]
 B -->|нет| C[Result 2]
 C
 ```
