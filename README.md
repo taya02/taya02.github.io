@@ -36,4 +36,5 @@ D --> |девочка|E[приключения]
 D --> |мальчик|G[армия]
 ```
 
+![гирлянда](https://user-images.githubusercontent.com/114468700/207239250-20589150-1da0-4bc4-a6ce-3a843baca41c.png)
 
