@@ -34,6 +34,8 @@ A --> D[нет]
 D --> |девочка|E[приключения]
 D --> |мальчик|G[армия]
 ```
+![image](https://user-images.githubusercontent.com/114468700/207240015-a8fc23b7-34e2-4c82-9132-c2943882d771.png)
+
 
 ![гирлянда](https://user-images.githubusercontent.com/114468700/207239250-20589150-1da0-4bc4-a6ce-3a843baca41c.png)
 
