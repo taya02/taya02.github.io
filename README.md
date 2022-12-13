@@ -28,7 +28,6 @@
 
 ```mermaid
 flowchart LR
-
 A[Сдал ЕГЭ?] -->B[да]
 B --> C[ВУЗ]
 A --> D[нет]
