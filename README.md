@@ -40,5 +40,5 @@ D --> |мальчик|G[армия]
 ![mermaid-diagram-2022-12-20-132228](https://user-images.githubusercontent.com/114468700/208597986-7296519b-e608-450e-9b79-49e51cd28f13.png)
 
 
-
+ http://chemtaya.tilda.ws
 
