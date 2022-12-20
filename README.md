@@ -37,4 +37,8 @@ D --> |мальчик|G[армия]
 ![image](https://user-images.githubusercontent.com/114468700/207240015-a8fc23b7-34e2-4c82-9132-c2943882d771.png)
 
 
+![mermaid-diagram-2022-12-20-132228](https://user-images.githubusercontent.com/114468700/208597986-7296519b-e608-450e-9b79-49e51cd28f13.png)
+
+
+
 
